@@ -1,14 +1,14 @@
 package sit707_tasks;
 
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
 import Models.Task;
-import services.TaskReminderService ;
-import org.junit.Test;
+import services.TaskReminderService;
 
 import java.time.LocalDate;
 import java.util.Arrays;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 public class TaskReminderServiceTest {
 
