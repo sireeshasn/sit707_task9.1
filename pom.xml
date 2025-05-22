@@ -19,11 +19,6 @@
       <version>5.9.2</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-    	<groupId>sit707_week2</groupId>
-    	<artifactId>selenium-bunnings</artifactId>
-    	<version>1.0-SNAPSHOT</version>
-    </dependency>
   </dependencies>
 
   <build>
